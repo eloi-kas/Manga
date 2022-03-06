@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Roboto+Condensed:wght@300&display=swap")
+
+@import url("COMPONENTS/container.css");
+@import url("COMPONENTS/container.css");
+@import url("COMPONENTS/button.css");
+@import url("COMPONENTS/img2.css");
+@import url("COMPONENTS/img1.css");
+@import url("COMPONENTS/img3.css");
+@import url("COMPONENTS/banner.css");
+@import url("COMPONENTS/cards.css");
+@import url("COMPONENTS/part.css");
+@import url("COMPONENTS/part.css");
+
+@import url("COMPONENTS/container.css");
+@import url("COMPONENTS/container.css");
+@import url("COMPONENTS/button.css");
+@import url("COMPONENTS/img2.css");
+@import url("COMPONENTS/img1.css");
+@import url("COMPONENTS/img3.css");
+@import url("COMPONENTS/banner.css");
+@import url("COMPONENTS/cards.css");
+@import url("COMPONENTS/box.css");
+@import url("COMPONENTS/box.css");
+@import url("COMPONENTS/last.css");
+@import url("COMPONENTS/last.css");
+
+
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+    background-color: #8BBEB2;
+  }
+
+h1, h2, h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+}
+
+a {
+text-decoration: none;
+}
+
+
+p {
+	 margin-bottom: 50px;
+}
+
+
